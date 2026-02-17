@@ -1,6 +1,7 @@
 #  Aesthetic Music Player - Lecteur de Musique Next.js
 
 Un lecteur de musique moderne et élégant construit avec Next.js 14, React et Tailwind CSS.
+
 ![Aperçu du lecteur de musique](./preview.jpg)
 
 ## Fonctionnalités
